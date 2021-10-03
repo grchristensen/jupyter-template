@@ -1,0 +1,4 @@
+name: {{cookiecutter.project_name}}
+dependencies:
+  - python
+  - jupyter
